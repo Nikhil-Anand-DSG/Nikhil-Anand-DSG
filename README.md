@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil-Anand-DSG, I go by Nik
 - I'm a Software Engineer I on the Innovations Team
-- I'm am a part of the TDP
+- I'm a part of the TDP
 - You can reach me @ nikhil.anand@dcsg.com
 
 <!---
