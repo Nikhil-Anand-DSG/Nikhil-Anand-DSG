@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhil-Anand-DSG, I go by Nik
-- I'm a Software Engineer II on the Omni Tooling & Visibility Team
+- I'm a Software Engineer II on the OMNI Tooling & Visibility Team
 - You can reach me @ nikhil.anand@dcsg.com
 
 <!---
